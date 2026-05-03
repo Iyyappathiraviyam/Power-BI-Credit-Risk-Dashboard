@@ -37,7 +37,7 @@ It provides actionable insights for business stakeholders to monitor loan perfor
 ---
 
 ## 📸 Sample Screenshots
-![Dashboard Screenshot](Dashboad Main Page.png)
+![Dashboard Screenshot](Dashboard Main Page.png)
 
 ---
 
